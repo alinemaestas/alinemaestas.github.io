@@ -22,9 +22,9 @@ gosling:
 ---
 
 
-![]({{site.url}}/assets/img/gallery-1481570039-gettyimages-629207774.jpg)
+![]({{https://pyxis.nymag.com/v1/imgs/8fc/484/315ff3132bb395e4d0a8d8575136eaa893-12-reynolds-gosling-point-004.2x.w710.jpg}})
 
-![]({{site.url}}/assets/img/ryan-v-ryan.jpg)  
+
 
 
 ## Lorem Ipsum
