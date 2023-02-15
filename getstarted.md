@@ -10,6 +10,24 @@
 
 **If you enjoy Beautiful Jekyll, please consider [supporting me](https://github.com/sponsors/daattali) for over 5 years of development (and to unlock rewards!) ❤**
 
+There are only three simple steps, ....
+
+Here is a 40-second video ....
+
+<img src="../img/install-steps.gif" style="width:100%;" alt="Installation steps" />
+
+
+<div class="gs-section-01" markdown="1">
+
+
+### 1. Fork the Beautiful Jekyll repository
+
+For the [repository](https://github.com/daatali/beautiful-jekyll)
+by clicking the Fork button on the top right corner of Github.
+
+
+</div>
+
 ## Table of contents
 
 - [Features](#features)
