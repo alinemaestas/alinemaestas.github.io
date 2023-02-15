@@ -7,14 +7,14 @@ layout: nice-text
 
 
 
-# Ryan vs Ryan: Liquid Table Demo 
+<h2> Ryan vs Ryan: Liquid Table Demo </h2>
 
 <table id="ryan-v-ryan">
 
 <thead>
   <tr>
- ## Ryan Reynolds
- ##  Ryan Gosling 
+    <th>  <h3>  Ryan Reynolds  </h3>  </th>
+    <th>  <h3>  Ryan Gosling  </h3>  </th>
   </tr>
 </thead>
 
@@ -26,7 +26,7 @@ layout: nice-text
   <td>
   
     
-### Strengths  
+    <h4>  Strengths  </h4>
     <ul>
       
       {% for item in page.reynolds.strengths %}
@@ -37,7 +37,7 @@ layout: nice-text
     
     <br>
 
-### Weaknessess 
+    <h4>  Weaknessess  </h4>
     <ul>
       
       {% for item in page.reynolds.weaknesses %}
@@ -84,6 +84,3 @@ layout: nice-text
 <hr>
 
 <br>
-
-![]([https://github.com/alinemaestas/alinemaestas.github.io/blob/854c60de0f57ae4e536bbd23cfef502c66c50aa5/ryan-v-ryan.jpeg) 
-
