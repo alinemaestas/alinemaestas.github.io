@@ -7,14 +7,14 @@ layout: nice-text
 
 
 
-<h2> Ryan vs Ryan: Liquid Table Demo </h2>
+# Ryan vs Ryan: Liquid Table Demo 
 
 <table id="ryan-v-ryan">
 
 <thead>
   <tr>
-    <th>  <h3>  Ryan Reynolds  </h3>  </th>
-    <th>  <h3>  Ryan Gosling  </h3>  </th>
+ ## Ryan Reynolds
+ ##  Ryan Gosling 
   </tr>
 </thead>
 
@@ -26,7 +26,7 @@ layout: nice-text
   <td>
   
     
-    <h4>  Strengths  </h4>
+### Strengths  
     <ul>
       
       {% for item in page.reynolds.strengths %}
@@ -37,7 +37,7 @@ layout: nice-text
     
     <br>
 
-    <h4>  Weaknessess  </h4>
+### Weaknessess 
     <ul>
       
       {% for item in page.reynolds.weaknesses %}
