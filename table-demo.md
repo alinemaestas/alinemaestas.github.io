@@ -1,4 +1,3 @@
-
 ---
 layout: liquid-table
 title: 'amiright?'
