@@ -10,7 +10,6 @@ layout: nice-text
 
 
 
-
 <h2> Ryan vs Ryan: Liquid Table Demo </h2>
 
 <table id="ryan-v-ryan">
