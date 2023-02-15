@@ -6,10 +6,12 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Aline Maestas Website
+
+description: Module 5 assignment for CPP 527 with Professor Boudourides
 
 # Your name to show in the footer
-author: Some Person
+author: Dean Attali (Original Author of beautiful-jekyll)
 
 # --- List of links in the navigation bar --- #
 
@@ -99,16 +101,16 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#baa7b0"
 navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-border-col: "#b2abbf"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+link-col: "#b1b5c8"
+hover-col: "#bfd5e2"
+footer-col: "#c7ebf0"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-link-col: "#c7ebf0"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
