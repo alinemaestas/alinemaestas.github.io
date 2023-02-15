@@ -1,5 +1,3 @@
-![](assets/img/ryan-v-ryan.jpeg) 
-
 ---
 layout: liquid-table
 title: 'amiright?'
@@ -22,6 +20,9 @@ gosling:
   - cries a lot
   - not ryan reynolds
 ---
+
+![](assets/img/ryan-v-ryan.jpeg) 
+
 
 
 
