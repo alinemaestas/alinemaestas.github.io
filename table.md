@@ -1,3 +1,6 @@
+
+![](assets/img/ryan-v-ryan.jpeg) 
+
 # amiright?
 
 |Ryan Reynolds Strengths| Ryan Gosling Strengths|
@@ -14,7 +17,6 @@
 
 
 
-![](assets/img/ryan-v-ryan.jpeg) 
 
 
 
