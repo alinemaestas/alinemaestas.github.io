@@ -21,9 +21,6 @@ navbar-links:
     - Getting Started: "getstarted"
   Table: "table"
   Table Demo: "table-demo"
-  Table 1: "table-demo-1"
-  Table 2: "table-demo-2"
-  Table 3: "liquid-table"
   Author's home: "https://github.com/daattali"
 
 # --- Logo --- #
