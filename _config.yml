@@ -19,10 +19,10 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted"
-  Table Demo: "table"
-  Table Demo 0: "table-demo"
-  Table Demo 1: "table-demo-1"
-  Table Demo 2: "table-demo-2"
+  Table: "table"
+  Table Demo: "table-demo"
+  Table 1: "table-demo-1"
+  Table 2: "table-demo-2"
   Author's home: "https://github.com/daattali"
 
 # --- Logo --- #
