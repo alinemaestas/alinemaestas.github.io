@@ -1,7 +1,7 @@
+# amiright?
 
 ![](assets/img/ryan-v-ryan.jpeg) 
 
-# amiright?
 
 |Ryan Reynolds Strengths| Ryan Gosling Strengths|
 |---|---|
@@ -9,7 +9,6 @@
 |funny|is a real boy|
 |dated Alanis Morissette|didn't date Alanis Morisette|
 
-<br>
 
 |Ryan Reynolds Weaknesses| Ryan Gosling Weaknesses|
 |---|---|
