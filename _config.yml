@@ -20,6 +20,8 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted"
   Table Demo: "table"
+  Table Demo 1: "table-demo-1"
+  Table Demo 2: "table-demo-2"
   Author's home: "https://github.com/daattali"
 
 # --- Logo --- #
