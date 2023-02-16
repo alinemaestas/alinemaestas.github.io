@@ -1,20 +1,15 @@
+# amiright?
 
----
-title: 'amiright?'
----
-
-|Ryan Reynolds| Ryan Gosling|
-|---|---|
-|Strengths|Strengths|
+|Ryan Reynolds Strengths| Ryan Gosling Strengths|
 |---|---|
 |good father|builds houses|
 |funny|is a real boy|
 |dated Alanis Morissette|didn't date Alanis Morisette|
-|---|---|
-|Weaknesses|Weaknesses
+
+|Ryan Reynolds Weaknesses| Ryan Gosling Weaknesses|
 |---|---|
 |singing|builds houses|
-|grn lantern|is a real boy|
+|green lantern movie|is a real boy|
 |tennis backhand|not Ryan Reynolds|
 
 
