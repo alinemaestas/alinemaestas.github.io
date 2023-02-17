@@ -18,8 +18,8 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - Getting Started: "getstarted.md"
-  Table Demo: "table-demo-1.md"
+    - Getting Started: "getstarted"
+  Table Demo: "table-demo-1"
   Author's home: "https://github.com/daattali"
 
 # --- Logo --- #
